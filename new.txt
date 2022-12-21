@@ -1,0 +1,26 @@
+		<table class="table">
+			<tr>
+				<td>
+					ID:
+				</td>
+				<td>
+					<input type="text" name="id">
+				</td>
+			</tr>
+		<tr>
+			<td>
+				Password:
+			</td>
+			<td>
+				<input type="Password" name="pass">
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<input type="submit" name="Login">
+			</td>
+			<td>
+				<input type="Reset" name="Reset">
+			</td>
+		</tr>
+		</table>
